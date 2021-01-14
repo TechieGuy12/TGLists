@@ -1,0 +1,11 @@
+# ================================================================================
+# The domains listed below are used by Microsoft Windows for various checks and 
+# validations
+# ================================================================================
+
+# Windows Internet Connection check - used by Windows to check if there is an 
+# Internet Connection. If Windows can't access the domains below, you will see No 
+# Internet Access for the Ethernet/Wireless adapter in Windows
+dns.microsoft.com
+www.msftncsi.com
+www.msftconnecttest.com 
