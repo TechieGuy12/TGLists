@@ -1,8 +1,17 @@
 agame.com
 crazygames.com
+images.crazygames.com
+videos.crazygames.com
+workers.crazygames.com
 www.crazygames.com
 freegames.org
 freetogame.com
+www.gamingdragons.com
 robloxpiggy.com
+www.riotgames.com
 spilgames.com
+worldoftanks.asia
+worldoftanks.com
+worldoftanks.eu
+worldoftanks.ru
 
