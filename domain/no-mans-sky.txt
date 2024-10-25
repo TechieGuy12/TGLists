@@ -1,0 +1,17 @@
+merged-nms-auth.nomanssky.com
+merged-nms-static.nomanssky.com
+mpsqosprod.australiaeast.cloudapp.azure.com
+mpsqosprod.brazilsouth.cloudapp.azure.com
+mpsqosprod.centralus.cloudapp.azure.com
+mpsqosprod.eastus.cloudapp.azure.com
+mpsqosprod.eastus2.cloudapp.azure.com
+mpsqosprod.japanwest.cloudapp.azure.com
+mpsqosprod.northcentralus.cloudapp.azure.com
+mpsqosprod.northeurope.cloudapp.azure.com
+mpsqosprod.southafricanorth.cloudapp.azure.com
+mpsqosprod.southcentralus.cloudapp.azure.com
+mpsqosprod.southeastasia.cloudapp.azure.com
+mpsqosprod.uaenorth.cloudapp.azure.com
+mpsqosprod.westeurope.cloudapp.azure.com
+mpsqosprod.westus.cloudapp.azure.com
+pfmsqosprod2-0.japaneast.cloudapp.azure.com
